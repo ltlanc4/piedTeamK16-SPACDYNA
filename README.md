@@ -4,15 +4,15 @@
 # The work of each member includes
 * Menu, Home, About Us, Services: **Trần Thiện, Khanh Linh Trinh**
      #### Description:
-<p align="center"><img source="https://raw.githubusercontent.com/ltlanc4/picture/main/Front-End%20PiedTeam%20part%201.png" width="580px" height="320px"/></p>
-<p align="center"><img source="https://raw.githubusercontent.com/ltlanc4/picture/main/Front-End%20PiedTeam%20part%202.png" width="580px" height="320px"/></p>
-<p align="center"><img source="https://raw.githubusercontent.com/ltlanc4/picture/main/Front-End%20PiedTeam%20part%203.png" width="580px" height="320px"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/87648667/126499821-f6bd58c8-0540-41ed-96ef-b1125f118fb7.png" width="580px"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/87648667/126499826-ad265e3c-82e9-4eb9-9c4c-e83f4bed9ced.png" width="580px" height="320px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ltlanc4/picture/main/Front-End%20PiedTeam%20part%203.png" width="580px"/></p>
 
 * Portfolio, Blog, Message Us: **Lê Thành Lân, Trần Hoàng Nguyên**
      #### Description:
-<p align="center"><img source="https://raw.githubusercontent.com/ltlanc4/picture/main/Front-End%20PiedTeam%20part%204.png" width="580px" height="320px"/></p>
-<p align="center"><img source="https://raw.githubusercontent.com/ltlanc4/picture/main/Front-End%20PiedTeam%20part%205.png" width="580px" height="320px"/></p>
-<p align="center"><img source="https://raw.githubusercontent.com/ltlanc4/picture/main/Front-End%20PiedTeam%20part%206.png" width="580px" height="320px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ltlanc4/picture/main/Front-End%20PiedTeam%20part%204.png" width="580px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ltlanc4/picture/main/Front-End%20PiedTeam%20part%205.png" width="580px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ltlanc4/picture/main/Front-End%20PiedTeam%20part%206.png" width="580px"/></p>
 
 ### Participants:
 - Mentor: <a href="https://www.facebook.com/nomadic.lodestar" target="_blank">Lê Điệp</a>
