@@ -4,15 +4,15 @@
 # The work of each member includes
 * Menu, Home, About Us, Services: **Trần Thiện, Khanh Linh Trinh**
 #### Description:
-<p align="center"><img source="https://drive.google.com/file/d/1a5sNyOZku4V3VNvOdPVWZUgFrXn_-vCK/view?usp=sharing" width="580px"/><br></p>
-<p align="center"><img source="https://drive.google.com/file/d/1Z9RJCDfrPTUWROfE05awPB_3rkaKT7mx/view?usp=sharing" width="580px"/><br></p>
-<p align="center"><img source="https://drive.google.com/file/d/1j7LrMCJLMdvs-C9ft0bcUvHpbdsyzErX/view?usp=sharing" width="580px"/></p>
+<p align="center"><img source="C:\Users\Thanh Lan\OneDrive\Pictures\Front-End PiedTeam part 1.png" width="580px"/><br></p>
+<p align="center"><img source="C:\Users\Thanh Lan\OneDrive\Pictures\Front-End PiedTeam part 2.png" width="580px"/><br></p>
+<p align="center"><img source="C:\Users\Thanh Lan\OneDrive\Pictures\Front-End PiedTeam part 3.png" width="580px"/></p>
 
 * Portfolio, Blog, Message Us: **Lê Thành Lân, Trần Hoàng Nguyên**
 #### Description:
-<p align="center"><img source="https://drive.google.com/file/d/1FUH4evEA_K3sQ9YBIZNQkAgJltkNvFZe/view?usp=sharing" width="580px"/><br></p>
-<p align="center"><img source="https://drive.google.com/file/d/1cXisz2Dh8joV46KhDDx3wYVZyQzw3Fnt/view?usp=sharing" width="580px"/><br></p>
-<p align="center"><img source="https://drive.google.com/file/d/1Eo3x7TDBTBriSdCWbN8cjn3HZY2PnHCT/view?usp=sharing" width="580px"/></p>
+<p align="center"><img source="C:\Users\Thanh Lan\OneDrive\Pictures\Front-End PiedTeam part 4.png" width="580px"/><br></p>
+<p align="center"><img source="C:\Users\Thanh Lan\OneDrive\Pictures\Front-End PiedTeam part 5.png" width="580px"/><br></p>
+<p align="center"><img source="C:\Users\Thanh Lan\OneDrive\Pictures\Front-End PiedTeam part 6.png" width="580px"/></p>
 
 ### Participants:
 - Mentor: <a href="https://www.facebook.com/nomadic.lodestar" target="_blank">Lê Điệp</a>
