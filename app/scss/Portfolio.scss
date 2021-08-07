@@ -35,7 +35,7 @@
     top: 0;
     visibility: hidden;
     position: absolute;
-    z-index: 2;
+    z-index: 3;
     transition: all 0.5s;
 }
 
@@ -78,4 +78,19 @@
 
 .our-portfolio .showed-content img {
     max-width: 100px;
+}
+
+@media (max-width:990px) {
+    .our-portfolio .showed-content{
+        margin: 7px;
+    }
+    .our-portfolio .hidden-content{
+        margin: 7px;
+    }
+}
+
+@media (max-width:575px) {
+    .our-portfolio .hidden-content {
+        padding: 50px 100px
+    }
 }
