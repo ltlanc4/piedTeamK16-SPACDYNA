@@ -6,6 +6,10 @@
     background-size: cover;
 }
 
+.contact-us .section-heading {
+    width: 280%;
+}
+
 .contact-us .section-heading h2,
 .contact-us .section-heading h2 em,
 .contact-us .section-heading h2 span {
@@ -15,6 +19,55 @@
 .contact-us .section-heading p {
     color: #fff;
     margin-top: 30px;
+}
+
+.contact-container {
+    width: 100%;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0rem;
+    margin-right: -0.75rem;
+    margin-left: -0.75rem;
+}
+
+.contact-colunm-heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-top: 0rem;
+    margin-right: -0.75rem;
+    margin-left: -0.75rem;
+    width: 30%;
+    position: relative;
+    left: -20%;
+    transform: translate(-95%);
+}
+
+.contact-colunm-all {
+    padding: 0px 12px;
+    flex: 0 0 auto;
+    width: 50%;
+    max-width: 100%;
+    margin: 8px 0;
+    box-sizing: border-box;
+    position: relative;
+    left: 22%;
+}
+
+.contact-colunm {
+    padding: 0px 10px;
+    flex: 0 0 auto;
+    width: 50%;
+    max-width: 100%;
+    margin: 8px 0;
+    box-sizing: border-box;
 }
 
 .phone-info {
@@ -63,6 +116,30 @@ form#contact {
     background-color: #fff;
     padding: 60px 30px;
     border-radius: 20px;
+    width: 200%;
+}
+
+form#contact input[type=text] {
+    width: 206%;
+}
+
+form#contact textarea {
+    position: relative;
+    left: -2%;
+}
+
+input, button, select, optgroup, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+fieldset {
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
 }
 
 form#contact input {
@@ -76,7 +153,7 @@ form#contact input {
     font-weight: 300;
     color: #2a2a2a;
     padding: 0px 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 form#contact input::placeholder {
@@ -84,9 +161,9 @@ form#contact input::placeholder {
 }
 
 form#contact textarea {
-    width: 100%;
-    min-width: 100%;
-    max-width: 100%;
+    width: 210%;
+    max-width: 210%;
+    min-width: 210%;
     max-height: 180px;
     min-height: 140px;
     height: 140px;
@@ -98,7 +175,7 @@ form#contact textarea {
     font-weight: 300;
     color: #2a2a2a;
     padding: 15px 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 form#contact textarea::placeholder {
@@ -127,10 +204,35 @@ form#contact button:hover {
 footer p {
     text-align: center;
     margin: 30px 0px 45px 0px;
+    width: 180%;
 }
 
 footer p a {
     color: #fe3f40;
+}
+
+@media (min-width: 1400px) {
+    .contact-container {
+        max-width: 1320px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .contact-container {
+        max-width: 1140px;
+    }
+}
+
+@media (min-width: 992px) {
+    .contact-container {
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 768px) {
+    .contact-container {
+        max-width: 720px;
+    }
 }
 
 @media (max-width: 1645px) {
@@ -139,7 +241,34 @@ footer p a {
     }
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1400px) {
+    .contact-colunm-heading {
+        left: 0;
+    }
+    .contact-colunm-all {
+        left: 18%;
+    }
+    form#contact {
+        width: 165%;
+    }
+}
+
+@media (max-width: 1190px) {
+    .contact-us .section-heading {
+        width: 190%;
+    }
+    .contact-us .phone-info {
+        width: 110%;
+    }
+    .contact-colunm-heading {
+        left: 11%;
+    }
+    form#contact {
+        width: 135%;
+    }
+}
+
+@media (max-width: 990px) {
     .contact-us {
         margin-top: 60px;
         padding: 120px 0px;
@@ -150,5 +279,26 @@ footer p a {
     form#contact {
         margin-left: 0px;
         margin-top: 30px;
+        width: 200%;
+        left: -35%;
+    }
+    .contact-colunm-heading {
+        width: 55%;
+        left: 50%
+    }
+    .contact-us .contact-colunm-heading .section-heading p {
+        font-size: 17px;
+    }
+    .contact-row {
+        flex-direction: column;
+    }
+    form#contact input[type=name] {
+        width: 206%;
+    }
+    form#contact input[type=surname] {
+        width: 206%;
+    }
+    footer p {
+        width: 200%;
     }
 }
